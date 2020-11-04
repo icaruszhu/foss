@@ -47,11 +47,7 @@ The basic idea of the Zettelkasten method is to build a personal knowledge syste
 
 ## Matteo Ricci's Memory Palace
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Matteo_Ricci_2.jpHealy 
-
-    Publications Resources Teaching Prints Blog 
-
-g" style="zoom:30%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Matteo_Ricci_2.jpg" style="zoom:30%;" />
 
 - Who is Matteo Ricci? What is his Memory Palace technique as described by Jonathan Spence? (see Spence, *The Memory Palace of Matteo Ricci*,1985) 
 - What is the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci)? 
