@@ -144,7 +144,7 @@ https://github.com/icaruszhu/student-gh-page-template
 
 - Westby, Emma Jane Hogbin. Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git. 1 edition. Sebastopol, CA: O’Reilly Media, 2015.
 
-[Chen's note: This is one of the best books I read about Git. It is much richer than merely being a technical book on Git as software, but it contains great wisdom on managing and curating collaborative projects.]
+[Chen's note: This is one of the best books I read about Git. It is much richer than merely being a technical book on Git as a piece of software, but it also contains great wisdom on how to curate collaborative projects.]
 
 - Brett, Matthew. ‘The Curious Coder’s Guide to Git — Curious Git’, 13 February 2017. https://matthew-brett.github.io/curious-git/.
 
