@@ -24,16 +24,12 @@ The repository provides supplementary materials for our weekly online tutorials.
 
 ## Flashcard: Combating the Forgetting Curve 
 - What is Ebbinghaus's [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve)? Can Ebbinghaus's experiment be replicated in your own learning environment? 
-- What is the best time to revise your notes? (Of course, we need to take some notes first. For developing a sensible note-taking system in the first place, see below.) What is **spaced repetition**? Have you ever tried use flashcards learn a new language or anything else? 
+- What is the best time to revise your notes? (Of course, we need to take some notes first. For developing a sensible note-taking system in the first place, see below.) What is **spaced repetition**? Have you ever tried to use flashcards for learning a new language or anything else? 
 
 
 ## Niklas Luhmann & Zettelkasten ("Slipbox")
 
-<img src="https://www.deutschlandfunkkultur.de/media/thumbs/3/3aab1a90ff5682730aedaf7ef6170fafv1_max_635x357_b3535db83dc50e27c1bb13923Healy 
-
-    Publications Resources Teaching Prints Blog 
-
-64c95a2.jpg?key=b15887" alt="Luhmann" style="zoom: 120%;" />
+<img src="https://www.deutschlandfunkkultur.de/media/thumbs/3/3aab1a90ff5682730aedaf7ef6170fafv1_max_635x357_b3535db83dc50e27c1bb1392364c95a2.jpg?key=b15887" alt="Luhmann" style="zoom: 120%;" />
 
 Source: https://www.deutschlandfunkkultur.de/niklas-luhmann-archiv-der-blick-in-den-zettelkasten-ist.2156.de.html?dram:article_id=445878
 
@@ -136,8 +132,8 @@ at   https://zotero-manual.github.io/  CC-BY-SA
 
 - *Programming Historian* provides a good tutorial here about Jekyll and Github: https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 
-- I have also written a brief tutorial with a simple template for a notional law student's static site
-
+- I have also written a brief tutorial with a simple template for the static site of a notional law student (whose name is Temp Late)
+https://github.com/icaruszhu/student-gh-page-template
 
 ## Suggested Readings
 
