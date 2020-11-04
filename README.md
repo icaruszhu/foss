@@ -8,6 +8,12 @@ author: Chen Wei Zhu (BLS) a.k.a YALA
 
 
 
+# Build a Plain-Text Personal Legal Knowledge System
+![markdown-plks](https://raw.githubusercontent.com/icaruszhu/pat/master/image/zhu-markdown-based-plks.png)
+
+
+Figure: A Markdowndown based workflow  (by Chen)
+
 # Background
 
 This guide is prepared for my personal tutees during our weekly online Personal Academic Tutoring (PAT) sessions due to the fact we are not able to meet face to face on Campus in the midst of the [[Covid-19]][^1] pandemic. I have two groups of undergraduate tutees, one being in their first year and the other final year. Each group contains about 15 students and we meet every week via Zoom. 
@@ -20,15 +26,6 @@ The repo provides supplementary materials for our weekly tutorials. There is no 
 # Flashcard: Combating the Forgetting Curve 
 - What is Ebbinghaus's [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve)? Can Ebbinghaus's experiment be replicated in your own learning environment? 
 - What is the best time to revise your notes? (Of course, we need to have take some notes first. For developing a sensible note-taking system in the first place, see below.) What is spaced repetition?  
-
-
-# Matteo Ricci's Memory Palace
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Matteo_Ricci_2.jpg" style="zoom:30%;" />
-
-- Who is Matteo Ricci? What is his Memory Palace technique as described by Jonathan Spence? (see  Spence, Jonathan D. 1985. The Memory Palace of Matteo Ricci. Reprint Edition. New York, N.Y: Penguin.) 
-- What is the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci)? 
-- Can you build a "digital memory palace" for your own legal studies with the note-taking system of your choice?
 
 
 # Niklas Luhmann & Zettelkasten ("Slipbox")
@@ -47,6 +44,15 @@ The basic idea of the Zettelkasten method is to build a personal knowledge syste
 - Obsidian: https://obsidian.md/
 - Roam Research: https://roamresearch.com/
 - Emacs Org-Roam: https://www.orgroam.com/ (work with Emacs, recommended)
+
+
+# Matteo Ricci's Memory Palace
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Matteo_Ricci_2.jpg" style="zoom:30%;" />
+
+- Who is Matteo Ricci? What is his Memory Palace technique as described by Jonathan Spence? (see  Spence, Jonathan D. 1985. The Memory Palace of Matteo Ricci. Reprint Edition. New York, N.Y: Penguin.) 
+- What is the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci)? 
+- Can you build a "digital memory palace" for your own legal studies with the note-taking system of your choice?
 
 
 # Legal citation styles
@@ -68,12 +74,8 @@ The basic idea of the Zettelkasten method is to build a personal knowledge syste
 
   
 
-# Build a Plain-Text Personal Legal Knowledge System
-
-
 # Org-Roam
-
-
+Org-roam is a brilliant Emacs package that implements Although it is inspired by Roam Research (RR), I think it does much more than RR 
 
 # Suggested Readings
 
