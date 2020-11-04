@@ -117,7 +117,7 @@ at   https://zotero-manual.github.io/  CC-BY-SA
 
 
 ## Git (Version control)
-- Git is Linux Torvalds' "invention" in 2005. He develops Git as an alternative to the then proprietary version control system called BitKeeper (which only becomes open source many years later.) 
+- Git is Linus Torvalds' "invention" in 2005. He develops Git as an alternative to the then proprietary version control system called BitKeeper (which only becomes open source many years later.) 
 
 - Git is a superb tool that allows you to manage multiple drafts (called "versions") of your work in progress. It also allows large-scale textual collaboration that records and manages complex multi-authorial information. 
 
@@ -126,9 +126,9 @@ at   https://zotero-manual.github.io/  CC-BY-SA
 ## Build a Static Personal Site with Jekyll
 - Jekyll allows you to build your own personal static website simply by writing pages in Markdown. It saves you from writing verbose HTML code. You can use Jekyll to build your site locally and host it on Github or similar software repository sites (e.g. GitLab).
 
-- *Programming Historian* provides a good tutorial about Jekyll and Github: https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+- *Programming Historian* provides a good tutorial on how to use Jekyll and Github: https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 
-- I have also written a brief tutorial with a simple template for the static site of a notional law student (whose name is "Tem Plate")
+- I have also written a brief tutorial with a simple template for the personal site of a notional law student (whose name is "Tem Plate")
 https://github.com/icaruszhu/student-gh-page-template
 
 ## Suggested Readings
@@ -143,7 +143,8 @@ https://github.com/icaruszhu/student-gh-page-template
 ### Version Control with Git
 
 - Westby, Emma Jane Hogbin. Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git. 1 edition. Sebastopol, CA: O’Reilly Media, 2015.
-This is the single best book I read about Git. It contains wisdom more than Git as software, but [TBC]    )
+
+[Chen's note: This is one of the best books I read about Git. It is much richer than merely being a technical book on Git as software, but it contains great wisdom on managing and curating collaborative projects.]
 
 - Brett, Matthew. ‘The Curious Coder’s Guide to Git — Curious Git’, 13 February 2017. https://matthew-brett.github.io/curious-git/.
 
@@ -164,8 +165,8 @@ This is the single best book I read about Git. It contains wisdom more than Git 
 ## Inside a Law Students' FOSS Toolbox
 - [ ] Markdown (markup language,https://daringfireball.net/projects/markdown/license)
 - [ ] Zettlr (markdown editor, GPLv3)
-- [ ] Zotero/Juris-M (Reference management, AGPLv3)
-- [ ] Git (Version Control, GPLv2 )
+- [ ] Zotero/Juris-M (reference management, AGPLv3)
+- [ ] Git (version control, GPLv2 )
 - [ ] Jekyll (static site generation, MIT License)
 - [ ] OBS Studio (recording and streaming video presentations,GPLv2 )
 - [ ] Emacs Org-mode (markup language and more, GPLv3)
@@ -174,5 +175,3 @@ This is the single best book I read about Git. It contains wisdom more than Git 
 ## Footnotes
 
 [^1]: Not all markdown editors support the ```wiki-link``` syntax (i.e. ```[[some-wiki-link-text]]```). You may need to use editors such as Emacs ```markdown mode``` or ```Zettlr``` to make wiki-links work properly on your local computer.
-
-
