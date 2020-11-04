@@ -3,6 +3,9 @@ title: Flashcard and Slipbox
 author: Chen Wei Zhu (BLS) a.k.a YALA
 ---
 
+
+[![DOI](https://zenodo.org/badge/298985433.svg)](https://zenodo.org/badge/latestdoi/298985433)
+
 # Flashcard and Slipbox: A Gentle Introduction to Free and Open Source Software (FOSS) Tools for Law Students
 *Dr. Chen Wei Zhu (Birmingham Law School)* 2020
 
