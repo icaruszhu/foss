@@ -33,7 +33,7 @@ The repository provides supplementary materials for our weekly online tutorials.
 
 Source: https://www.deutschlandfunkkultur.de/niklas-luhmann-archiv-der-blick-in-den-zettelkasten-ist.2156.de.html?dram:article_id=445878
 
-I first came across Niklas Luhmann's works when I was reading Teubner's book *Law as an Autopoeitic System* during a *Sociology of Law* course in Edinburgh in 2004. I even initiated a [Chinese Wikipedia entry for Luhmann]( https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%E6%8B%89%E6%96%AF%C2%B7%E5%8D%A2%E6%9B%BC). (The Chinese entry has evolved substantially ever since.) At that point, I was blissfully unaware of Luhmann's Zettelkasten ("slipbox") note-taking method.
+I first came across Niklas Luhmann's works when I was reading Teubner's book *Law as an Autopoeitic System* during a *Sociology of Law* course in Edinburgh in 2004. I even initiated a [Chinese Wikipedia entry for Luhmann]( https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%E6%8B%89%E6%96%AF%C2%B7%E5%8D%A2%E6%9B%BC) then. (The Chinese entry has evolved substantially ever since.) At that point, I was blissfully unaware of Luhmann's Zettelkasten ("slipbox") note-taking method.
 
 The basic idea of the Zettelkasten method is to build a personal knowledge system by using linked atomic notes. Luhmann himself uses physical "slipboxes" to store his handwritten notes with small cards. Nowadays, it is possible to digitally implement Luhmann's method with software packages.
 
@@ -66,17 +66,17 @@ The basic idea of the Zettelkasten method is to build a personal knowledge syste
   + CommonMark: https://commonmark.org/
  
 - Exercise: prepare your CV in markdown
-  + a sample CV template in markdown
+  + a sample CV template in markdown 
 https://github.com/icaruszhu/student-gh-page-template/blob/gh-pages/index.md
 
 - Video tutorials:
-  +  A mardown syntax tutorial by Giraffe Academy (8 minute long) on youtube  https://www.youtube.com/watch?v=2JE66WFpaII
+  +  A mardown syntax tutorial from Giraffe Academy (8 minute long) on youtube  https://www.youtube.com/watch?v=2JE66WFpaII
   +   Nicholas Cifuentes-Goodbody, Academic Writing in Markdown, 10 Dec 2016
 https://www.youtube.com/watch?v=hpAJMSS8pvs
 
 
 ## Zotero/Juris-M
-Zotero is a FOSS reference management system. Juris-M is a fork from Zotero and it is designed for better legal citations.
+[Zotero](https://www.zotero.org/) is a FOSS reference management system. [Juris-M](https://juris-m.github.io/) is a fork from Zotero and it is a wonderful software package designed for better legal citations and more. Juris-M is maintained by the law professor Frank Bennett at Nagoya University.
 
 - Online Zotero tutorials
   + Sebastian Karcher and Rintze M. Zelle, Mastering Zotero
@@ -91,7 +91,7 @@ at   https://zotero-manual.github.io/  CC-BY-SA
   +  Zutilo: https://github.com/willsALMANJ/Zutilo
 
 ### Legal citation styles
-- OSCOlA: The Oxford University Standard for Citation of Legal Authorities
+- OSCOLA: The Oxford University Standard for Citation of Legal Authorities
   + OSCOLA official website: https://www.law.ox.ac.uk/research-subject-groups/publications/oscola
   + OSCOLA Quick reference guide (a one-page cheatsheet) https://www.law.ox.ac.uk/sites/files/oxlaw/oscola_4th_edn_hart_2012quickreferenceguide.pdf
   
@@ -117,18 +117,18 @@ at   https://zotero-manual.github.io/  CC-BY-SA
 
 
 ## Git (Version control)
-- Git is Linux Torvalds' "invention" in 2005. He develops Git as an alternative to the then proprietary version control system called BitKeeper (which only becomes open source much later.) 
+- Git is Linux Torvalds' "invention" in 2005. He develops Git as an alternative to the then proprietary version control system called BitKeeper (which only becomes open source many years later.) 
 
-- Git is a superb tools that allows you to manage multiple drafts (called "versions") of your work in progress. It also allows large-scale textual collaboration that records and manages complex multi-authorial information. 
+- Git is a superb tool that allows you to manage multiple drafts (called "versions") of your work in progress. It also allows large-scale textual collaboration that records and manages complex multi-authorial information. 
 
-- Git can be useful for lawyers to create and manage versions of legal documents, but it is suprisingly under-used in the legal field.
+- Git can be useful for lawyers to create and manage versions of legal documents, but it is surprisingly under-used in the legal field.
 
 ## Build a Static Personal Site with Jekyll
-- Jekyll allows to build your own personal static website simply by writing pages in Markdown. It saves you from writing verbose HTML code. You can use Jekyll to build your site and host your site on Github or other source code repository sites.
+- Jekyll allows you to build your own personal static website simply by writing pages in Markdown. It saves you from writing verbose HTML code. You can use Jekyll to build your site locally and host it on Github or similar software repository sites (e.g. GitLab).
 
-- *Programming Historian* provides a good tutorial here about Jekyll and Github: https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+- *Programming Historian* provides a good tutorial about Jekyll and Github: https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 
-- I have also written a brief tutorial with a simple template for the static site of a notional law student (whose name is Temp Late)
+- I have also written a brief tutorial with a simple template for the static site of a notional law student (whose name is "Tem Plate")
 https://github.com/icaruszhu/student-gh-page-template
 
 ## Suggested Readings
