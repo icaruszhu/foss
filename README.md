@@ -11,7 +11,7 @@ author: Chen Wei Zhu (a.k.a. YALA)
 
 
 ## Build a Plain-Text Personal Legal Knowledge System
-![markdown-plks](https://raw.githubusercontent.com/icaruszhu/pat/master/image/zhu-markdown-based-plks.png)
+![markdown-plks](https://raw.githubusercontent.com/icaruszhu/foss-law/master/image/zhu-markdown-based-plks.png)
 
 
 Figure: A Markdown-based Workflow for Building a Personal Legal Knowledge System (by Chen Zhu)
