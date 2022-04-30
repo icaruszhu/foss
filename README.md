@@ -1,6 +1,6 @@
 ---
 title: Flashcard and Slipbox
-author: Chen Wei Zhu (BLS) a.k.a YALA
+author: Chen Wei Zhu (a.k.a. YALA)
 ---
 
 
@@ -152,7 +152,7 @@ https://github.com/icaruszhu/student-gh-page-template
 - Brett, Matthew. ‘The Curious Coder’s Guide to Git — Curious Git’, 13 February 2017. https://matthew-brett.github.io/curious-git/.
 
 ### Memory Palace
-- Spence, Jonathan D. 1985. The Memory Palace of Matteo Ricci. Reprint Edition. New York, N.Y: Penguin.
+- Spence, Jonathan D. 1985. The Memory Palace of Matteo Ricci. New York, N.Y: Penguin.
 
 ### Legal Citation
 
